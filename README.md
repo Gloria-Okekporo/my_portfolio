@@ -1,7 +1,3 @@
-# My Cybersecurity Portfolio
-
-Welcome to my cybersecurity portfolio repository.
-
 ## About Me
 I am an aspiring AI and Cybersecurity Engineer passionate about:
 - Cloud Security
